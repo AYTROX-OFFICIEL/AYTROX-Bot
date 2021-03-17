@@ -68,3 +68,10 @@ Serveur Discord: **[officiel AYTROX](https://dsc.gg/aytrox)**
 | ----------- | --------- |
 | [PitouGaming](https://www.youtube.com/channel/UCH97qiXvxU75rLAj27pRWfA)  |  Chaine de soutien |
 | [AYTROX](https://github.com/AYTROXGLITCHEUR)  | Créateur du Projet |
+
+
+
+<!-- LICENSE -->
+## License
+
+**Ce Projet n'est pas Lisencié**
