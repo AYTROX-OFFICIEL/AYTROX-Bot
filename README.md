@@ -54,3 +54,16 @@ AYTROX Bot est un bot Discord qui est connecté par un ID de Client [Discord.Dev
 
 
 Serveur Discord: **[officiel AYTROX](https://dsc.gg/aytrox)**
+
+
+<!-- CREDITS -->
+## Credits
+
+### Used APIs
+• [Visual Studio Code](https://code.visualstudio.com/) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="30" title="Visual Studio Code"> Créer par [Microsoft](https://github.com/microsoft) <br>
+
+### Contributors
+
+| Contributor | Aidé avec |
+| ----------- | --------- |
+| [PitouGaming](https://www.youtube.com/channel/UCH97qiXvxU75rLAj27pRWfA)  |  Chaine de soutien |
