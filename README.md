@@ -59,7 +59,7 @@ Serveur Discord: **[officiel AYTROX](https://dsc.gg/aytrox)**
 <!-- CREDITS -->
 ## Credits
 
-### Used APIs
+### Apli Utiliser
 • [Visual Studio Code](https://code.visualstudio.com/) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="30" title="Visual Studio Code"> Créer par [Microsoft](https://github.com/microsoft) <br>
 
 ### Contributors
