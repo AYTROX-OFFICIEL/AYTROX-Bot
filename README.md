@@ -33,4 +33,15 @@
 <!-- A Propos de AYTROX Bot -->
 ## A Propos de AYTROX Bot
 
-AYTROX Bot est un bot Discord qui est connecté par un ID de Client [Discord.Developers](https://discord.com/developers/applications). Avec des Fonctionnalités de 3 Commandes. Language utilisé: [Node.Js](https://nodejs.org/en/download/current/), Projet non Licensié.
+AYTROX Bot est un bot Discord qui est connecté par un ID de Client [Discord.Developers](https://discord.com/developers/applications). _Avec des Fonctionnalités de 3 Commandes._ Language utilisé: [Node.Js](https://nodejs.org/en/download/current/), Projet non Licensié.
+
+
+
+<!-- INSTALL -->
+## Installation
+
+- Installer la dernière version de **[Node.Js](https://nodejs.org/en/download/current/)**.
+- Télécharger **[AYTROX Bot](https://github.com/AYTROXGLITCHEUR/AYTROX-Bot/archive/main.zip)**.
+- Extraire le Fichier **AYTROX Bot-main.zip**.
+- Ouvrir `install.bat`et attendre la fin du Téléchargement. (Utile que à la première utilisation!)
+- Ouvrir `config.json`et entré le token du bot puis votre **Préfix**. examples: token:"155554548554j54s4f4", préfix:"!", vous trouvez le token du bot dans **[Discord Developer](https://discord.com/developers/applications)**.
