@@ -6,10 +6,10 @@
   <p align="center">
     Un Bot Discord Gratuit pour vous très peut de fonctionnalité pour le moment.
 	<br />
-	<a href="https://github.com/AYTROXGLITCHEUR/AYTROX-Bot/archive/main.zip">Downloads</a>
+	<a href="https://github.com/AYTROXGLITCHEUR/AYTROX-Bot/archive/main.zip">Télécharger</a>
     <br />
     <br />
-    <a href="https://dsc.gg/aytrox">Report a Bug</a>
+    <a href="https://dsc.gg/aytrox">Dire les Beugs</a>
     ·
     <a href="https://dsc.gg/aytrox">Discord Server</a>
   </p>
