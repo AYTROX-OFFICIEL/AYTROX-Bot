@@ -1,5 +1,4 @@
 #AYTROX-Bot
-Bot Discord gratuit
 
 <!-- PROJECT LOGO -->
 <br />
