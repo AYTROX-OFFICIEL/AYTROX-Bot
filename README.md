@@ -33,7 +33,7 @@
 <!-- A Propos de AYTROX Bot -->
 ## A Propos de AYTROX Bot
 
-AYTROX Bot est un bot Discord qui est connecté par un ID de Client [Discord.Developers](https://discord.com/developers/applications). _Avec des Fonctionnalités de 3 Commandes._ Language utilisé: [Node.Js](https://nodejs.org/en/download/current/), Projet non Licensié.
+AYTROX Bot est un bot Discord qui est connecté par un ID de Client [Discord.Developers](https://discord.com/developers/applications). _Avec des Fonctionnalités de 4 Commandes._ Language utilisé: [Node.Js](https://nodejs.org/en/download/current/), Projet non Licensié.
 
 
 
