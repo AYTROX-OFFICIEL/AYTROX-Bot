@@ -23,7 +23,6 @@
 <ol>
     <li><a href="#a-propos-de-aytrox-bot">A Propos de AYTROX Bot</a></li>
     <li><a href="#installation">Installation</a></li>
-	<li><a href="#faqs">FAQs</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#credits">Credits</a></li>
 </ol>
