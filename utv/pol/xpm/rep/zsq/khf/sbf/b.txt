@@ -1,5 +1,0 @@
-Bonjour,si se message apparait cela veut dire que vous avez presque finit. tu peut quitter la commandes.
-
-Assurez vous que vous avez bien mis le préfix et le token dans "./config.json" si cela est mis appuyer sur run.bat puis regarder votre BOT vous
-
-envoyer des messages.
