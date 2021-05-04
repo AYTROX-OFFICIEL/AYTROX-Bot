@@ -18,7 +18,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
-## Table of Contents
+## SOMMAIRE
 
 <ol>
     <li><a href="#a-propos-de-aytrox-bot">A Propos de AYTROX Bot</a></li>
@@ -73,4 +73,4 @@ Serveur Discord: **[officiel AYTROX](https://dsc.gg/aytrox)**
 <!-- LICENSE -->
 ## License
 
-**Ce Projet n'est pas Lisencié**
+**Ce Projet est Licensié par ISC.**
