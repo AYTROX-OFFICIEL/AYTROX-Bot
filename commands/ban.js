@@ -1,3 +1,5 @@
+//**ban command**//
+
 const Discord = require('discord.js');
 
 module.exports = {

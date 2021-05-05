@@ -1,3 +1,5 @@
+//**avatar command**//
+
 module.exports = {
     name: 'avatar',
     description: 'Display avatar URL. ',

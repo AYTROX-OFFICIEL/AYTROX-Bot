@@ -1,3 +1,5 @@
+//**ping command**//
+
 module.exports = {
   name: 'ping',
   description: 'Test Command',

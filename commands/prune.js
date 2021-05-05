@@ -1,3 +1,5 @@
+//**prune command**//
+
 module.exports = {
     name: 'prune',
     description: 'Delete messages.',

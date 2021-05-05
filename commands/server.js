@@ -1,3 +1,5 @@
+//**serveur command**//
+
 module.exports = {
     name: 'server',
     description: 'Server Informations.',
