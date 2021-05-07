@@ -33,4 +33,8 @@ client.on('message', message => {
     }
 })
 
+client.on('ready', () => {
+    client.user.setActivity("Made by AYTROX | TikTok: @aytrox | Instagram: @aytrox2.0 | V1.1", {type: 'STREAM'});
+});
+
 client.login(token);
