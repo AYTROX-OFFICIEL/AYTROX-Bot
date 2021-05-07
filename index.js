@@ -35,7 +35,7 @@ client.on('message', message => {
 
 /* Droit D'auteur */
 client.on('ready', () => {
-    client.user.setActivity("Made by AYTROX | TikTok: @aytrox | Instagram: @aytrox2.0 | V2.1.7", {type: 'PLAYING'});
+    client.user.setActivity("AYTROX | TikTok: @aytrox | Instagram: @aytrox2.0 | Made by AYTROX | V2.1.7", {type: 'PLAYING'});
 });
 
 
