@@ -34,9 +34,19 @@ client.on('message', message => {
 })
 
 /* Droit D'auteur */
-client.on('ready', () => {
-    client.user.setActivity("AYTROX | TikTok: @aytrox | Instagram: @aytrox2.0 | Made by AYTROX | V2.1.7", {type: 'PLAYING'});
-});
+client.on("ready", () => {
+    const statuses = [
+        () => 'Made By AYTROX#1418 | TikTok: @aytrox | Twitter: @AYTROX2_0 | Github: AYTROX_OFFICIEL | V2.0.0',
+        () => `${client.guilds.cache.size} serveurs`,
+    ]
+    let i = 0
+    setInterval(() => {
+        client.user.setActivity(statuses[i](), {type: 'PLAYING'})
+        i = ++i % statuses.length
+    }, 1e4)
+    
+})
 
 
 client.login(token);
+client.commands = new Discord.Collection()
