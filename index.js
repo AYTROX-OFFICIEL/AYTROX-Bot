@@ -49,4 +49,3 @@ client.on("ready", () => {
 
 
 client.login(token);
-client.commands = new Discord.Collection()
