@@ -2,4 +2,4 @@
 
 title install BOT
 
-start npm i
+npm i
