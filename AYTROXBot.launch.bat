@@ -48,5 +48,5 @@ echo.
 echo.
 echo.
 timeout /t 2 /nobreak>nul
-title AYTROX Bot V2.1.7       BOT en ligne (en court de Fonctionnement) discord pour les beugs: https://dsc.gg/AYTROX
+title AYTROX Bot V2.1.8       BOT en ligne (en court de Fonctionnement) discord pour les beugs: https://dsc.gg/AYTROX
 node index.js 
