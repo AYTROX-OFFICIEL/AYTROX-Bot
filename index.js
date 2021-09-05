@@ -14,7 +14,7 @@ for (const file of commandFiles) {
 }
 
 client.once('ready', () => {
-  console.log('Prêt!');
+  console.log("  Le Bot est prêt");
 });
 
 client.on('message', message => {
