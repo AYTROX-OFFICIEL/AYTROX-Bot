@@ -46,7 +46,7 @@ AYTROX Bot est un bot Discord qui est connecté par un ID de Client [Discord.Dev
 - Extraire le Fichier **AYTROX Bot-main.zip**.
 - Ouvrir `install.bat`et **attendre la fin du Téléchargement**. (Utile que à la première utilisation!)
 - Ouvrir `config.json`et entré le token du bot puis votre **Préfix**. examples: token:"155554548554j54s4f4", préfix:"!", vous trouvez le token du bot dans **[Discord Developer](https://discord.com/developers/applications)**. Je ferais un tuto sur **Youtube** Prochainement.
-- Une fois que tout ça est fait ouvrer `run.bat`et faite vous plaisirs. **(Ne surtout pas Fermer la Fenêtre run.bat Sinon le Bot ne Fonctionnera pas!)**
+- Une fois que tout ça est fait ouvrer `AYTROXBot.launch.exe`et faite vous plaisirs. **(Ne surtout pas Fermer la Fenêtre Du launcher Sinon le Bot ne Fonctionnera pas!)**
 
 
 
