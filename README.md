@@ -13,7 +13,11 @@
 		height="300"
 </a>
 	  <br />
-	<a href="https://github.com/AYTROXGLITCHEUR/AYTROX-Bot/archive/main.zip">Télécharger</a>
+		  <a href="https://github.com/AYTROXGLITCHEUR/AYTROX-Bot/archive/main.zip" title="Télécharger">
+    <img  alt="Downloads"
+	  src="https://img.shields.io/badge/Downloads-%40version%202.1.1.8-brightgreen"
+	  width="200">
+		  </a>
     <br />
     <br />
     <a href="https://dsc.gg/aytrox">Reporter Beugs</a>
@@ -24,11 +28,6 @@
     <a href="https://aytrox.wixsite.com/siteweb">Website</a>
     <br />
     <br />
-		  <a href="https://github.com/AYTROXGLITCHEUR/AYTROX-Bot/archive/main.zip" title="Télécharger">
-    <img  alt="Downloads"
-	  src="https://img.shields.io/badge/Downloads-%40version%202.1.1.8-brightgreen"
-	  width="200">
-		  </a>
   </p>
 </p>
 
