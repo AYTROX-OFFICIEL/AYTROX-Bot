@@ -44,7 +44,7 @@
 ## A Propos de AYTROX Bot
 
 AYTROX Bot est un bot Discord qui est connecté par un ID de Client [Discord.Developers](https://discord.com/developers/applications). _Avec des Fonctionnalités de 5 Commandes._<br>
-Language utilisé: **[JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript)** <img src="https://i.imgur.com/cbpCqLw.png" width="30" height="30" title="Javascript"> | [Node.Js](https://nodejs.org/en/download/current/), Projet Liscensié par Inc.
+Language utilisé: **[JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript)** <img src="https://i.imgur.com/cbpCqLw.png" width="30" height="30" title="Javascript"> | [Node.Js](https://nodejs.org/en/download/current/), Projet Liscensié par ISC.
 
 
 
