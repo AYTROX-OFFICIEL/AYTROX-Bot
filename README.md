@@ -22,11 +22,14 @@
     <br />
     <a href="https://discord.gg/6RcTWgucPn">Reporter Beugs</a>
     •
-    <a href="https://dsc.gg/AYTROX">Discord Server</a>
-    •
     <a href="https://aytrox.wixsite.com/siteweb">Website</a>
     <br />
     <br />
+      <a href="https://dsc.gg/AYTROX" title="Discord">
+		  <img src="https://i.imgur.com/NzWJsgU.png"
+		       href="https://dsc.gg/AYTROX"
+		       width="80">
+		  </a>
   </p>
 </p>
 
