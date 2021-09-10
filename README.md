@@ -20,8 +20,8 @@
     •
     <a href="https://dsc.gg/aytrox">Discord Server</a>
     <br />
-    <a href="https://aytrox.wixsite.com/siteweb">Website</a>
     <br />
+    <a href="https://aytrox.wixsite.com/siteweb">Website</a>
     <br />
   </p>
 </p>
