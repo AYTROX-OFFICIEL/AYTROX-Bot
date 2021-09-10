@@ -23,6 +23,8 @@
     <br />
     <a href="https://aytrox.wixsite.com/siteweb">Website</a>
     <br />
+    <br />
+    <img scr="https://img.shields.io/badge/Downloads-%40version%202.1.1.8-brightgreen">
   </p>
 </p>
 
