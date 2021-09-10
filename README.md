@@ -22,7 +22,7 @@
     <br />
     <a href="https://discord.gg/6RcTWgucPn">Reporter Beugs</a>
     •
-    <a href="https://dsc.gg/aytrox">Discord Server</a>
+    <a href="https://dsc.gg/AYTROX">Discord Server</a>
     •
     <a href="https://aytrox.wixsite.com/siteweb">Website</a>
     <br />
