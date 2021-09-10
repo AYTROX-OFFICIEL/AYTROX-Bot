@@ -94,4 +94,4 @@ Serveur Discord: **[officiel AYTROX](https://dsc.gg/aytrox)**
 <!-- LICENSE -->
 ## License
 
-**Ce Projet est Licensié par ISC.**
+**Ce Projet est Licensié par MIT License.**
