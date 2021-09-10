@@ -6,7 +6,7 @@
   <p align="center">
     Un Bot Discord Gratuit pour vous très peut de fonctionnalité pour le moment.
 	<br />
-	  <img src="https://i.imgur.com/a8WOqHV.png" height="500px" width="500px" alt="Logo OFFICIEL AYTROX"/>
+	  <img src="https://i.imgur.com/a8WOqHV.png" href="https://aytrox.wixsite.com/siteweb" height="500px" width="500px" alt="Logo OFFICIEL AYTROX"/>
 	  <br />
 	<a href="https://github.com/AYTROXGLITCHEUR/AYTROX-Bot/archive/main.zip">Télécharger</a>
     <br />
