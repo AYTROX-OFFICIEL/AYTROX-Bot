@@ -11,8 +11,6 @@
 		src="https://i.imgur.com/uVVbwJ6.png"
 		width="200"
 		height="200"
-		border="10"
-		style="border:5px solid #000000" />
 </a>
 	  <br />
 	<a href="https://github.com/AYTROXGLITCHEUR/AYTROX-Bot/archive/main.zip">Télécharger</a>
