@@ -52,7 +52,7 @@ Language utilisé: **[JavaScript](https://developer.mozilla.org/fr/docs/Web/Java
 ## Installation
 
 - Installer la dernière version de **[Node.Js](https://nodejs.org/en/download/current/)**.
-- Télécharger **[AYTROX Bot](https://github.com/AYTROXGLITCHEUR/AYTROX-Bot/archive/main.zip)**.
+- Télécharger **[AYTROX Bot V2.1.1.8](https://github.com/AYTROXGLITCHEUR/AYTROX-Bot/archive/main.zip)**.
 - Extraire le Fichier **AYTROX Bot-main.zip**.
 - Ouvrir `install.exe`et **attendre la fin du Téléchargement**. (Utile que à la première utilisation!)
 - Ouvrir `config.json`et entré le token du bot puis votre **Préfix**. examples: token:"155554548554j54s4f4", préfix:"!", vous trouvez le token du bot dans **[Discord Developer](https://discord.com/developers/applications)**. Je ferais un tuto sur **Youtube** Prochainement.
