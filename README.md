@@ -24,7 +24,7 @@
     <a href="https://aytrox.wixsite.com/siteweb">Website</a>
     <br />
     <br />
-    <img src="https://img.shields.io/badge/Downloads-%40version%202.1.1.8-brightgreen">
+    <img src="https://img.shields.io/badge/Downloads-%40version%202.1.1.8-brightgreen" href="https://github.com/AYTROXGLITCHEUR/AYTROX-Bot/archive/main.zip">
   </p>
 </p>
 
