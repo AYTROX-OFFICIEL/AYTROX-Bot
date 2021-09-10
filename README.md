@@ -9,8 +9,8 @@
 	  <a href="https://aytrox.wixsite.com/siteweb" target="_blank" title="Logo OFFICIEL de AYTROX">
 	<img 	alt="Siteweb"
 		src="https://i.imgur.com/a8WOqHV.png"
-		width="200"
-		height="200"
+		width="300"
+		height="300"
 </a>
 	  <br />
 	<a href="https://github.com/AYTROXGLITCHEUR/AYTROX-Bot/archive/main.zip">Télécharger</a>
