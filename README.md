@@ -9,8 +9,8 @@
 	  <a href="https://aytrox.wixsite.com/siteweb" target="_blank" title="Logo OFFICIEL de AYTROX">
 	<img 	alt="Siteweb"
 		src="https://i.imgur.com/uVVbwJ6.png"
-		width="120"
-		height="75"
+		width="200"
+		height="200"
 		border="5"
 		style="border:5px solid #337AB7" />
 </a>
