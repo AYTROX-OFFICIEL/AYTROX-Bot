@@ -27,7 +27,7 @@
 		  <a href="https://github.com/AYTROXGLITCHEUR/AYTROX-Bot/archive/main.zip" title="Télécharger">
     <img  alt="Downloads"
 	  src="https://img.shields.io/badge/Downloads-%40version%202.1.1.8-brightgreen"
-	  width="100">
+	  width="200">
 		  </a>
   </p>
 </p>
