@@ -87,7 +87,7 @@ Serveur Discord: **[officiel AYTROX](https://dsc.gg/aytrox)**
 | Contributor | Aidé avec |
 | ----------- | --------- |
 | [PitouGaming](https://www.youtube.com/channel/UCH97qiXvxU75rLAj27pRWfA)  |  Chaine de soutien |
-| [AYTROX](https://github.com/AYTROXGLITCHEUR)  | Créateur du Projet |
+| [AYTROX](https://www.youtube.com/c/AYTROX)  | Créateur du Projet |
 
 
 
