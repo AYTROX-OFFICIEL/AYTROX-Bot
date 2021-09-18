@@ -6,14 +6,14 @@
   <p align="center">
     Un Bot Discord Gratuit pour vous très peut de fonctionnalité pour le moment.
 	<br />
-	  <a href="https://aytrox.wixsite.com/siteweb" target="_blank" title="Logo OFFICIEL de AYTROX">
+	  <a href="https://aytrox.wixsite.com/aytrox" target="_blank" title="Logo OFFICIEL de AYTROX">
 	<img 	alt="Siteweb"
 		src="https://i.imgur.com/a8WOqHV.png"
 		width="300"
 		height="300"
 </a>
 	  <br />
-		  <a href="https://github.com/AYTROXGLITCHEUR/AYTROX-Bot/archive/main.zip" title="Télécharger">
+		  <a href="https://github.com/AYTROX-OFFICIEL/AYTROX-Bot/archive/main.zip" title="Télécharger">
     <img  alt="Downloads"
 	  src="https://img.shields.io/badge/Downloads-%40version%202.1.1.8-brightgreen"
 	  width="200">
@@ -22,7 +22,7 @@
     <br />
     <a href="https://discord.gg/6RcTWgucPn">Reporter Beugs</a>
     •
-    <a href="https://aytrox.wixsite.com/siteweb">Website</a>
+    <a href="https://aytrox.wixsite.com/aytrox">Website</a>
     <br />
     <br />
       <a href="https://dsc.gg/AYTROX" title="Discord">
@@ -59,7 +59,7 @@ Language utilisé: **[JavaScript](https://developer.mozilla.org/fr/docs/Web/Java
 ## Installation
 
 - Installer la dernière version de **[Node.Js](https://nodejs.org/en/download/current/)**.
-- Télécharger **[AYTROX Bot V2.1.1.8](https://github.com/AYTROXGLITCHEUR/AYTROX-Bot/archive/main.zip)**.
+- Télécharger **[AYTROX Bot V2.1.1.8](https://github.com/AYTROX-OFFICIEL/AYTROX-Bot/archive/main.zip)**.
 - Extraire le Fichier **AYTROX Bot-main.zip**.
 - Ouvrir `AYTROXBot_setup.exe`> suivre instruction directement dessus.
 - Ouvrir `install.exe`et **attendre la fin du Téléchargement**. (Utile que a la première utilisation!)
@@ -73,7 +73,7 @@ Language utilisé: **[JavaScript](https://developer.mozilla.org/fr/docs/Web/Java
 ## Contact
 
 
-Serveur Discord: **[officiel AYTROX](https://dsc.gg/aytrox)**
+Serveur Discord: **[officiel AYTROX](https://dsc.gg/AYTROX)**
 
 
 <!-- CREDITS -->
