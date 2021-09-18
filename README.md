@@ -1,4 +1,4 @@
-#AYTROX-Bot
+#AYTROX-Bot-v2.1.1.9
 
 <!-- PROJECT LOGO -->
 <br />
@@ -14,8 +14,8 @@
 </a>
 	  <br />
 		  <a href="https://github.com/AYTROX-OFFICIEL/AYTROX-Bot/archive/main.zip" title="Télécharger">
-    <img  alt="Downloads"
-	  src="https://img.shields.io/badge/Downloads-%40version%202.1.1.8-brightgreen"
+    <img  alt="Télécharger"
+	  src="https://img.shields.io/badge/Downloads-Derni%C3%A8re%20version%3A%20v2.1.1.9-orange"
 	  width="200">
 		  </a>
     <br />
@@ -50,7 +50,7 @@
 <!-- A Propos de AYTROX Bot -->
 ## A Propos de AYTROX Bot
 
-AYTROX Bot est un bot Discord qui est connecté par un ID de Client [Discord.Developers](https://discord.com/developers/applications). _Avec des Fonctionnalités de 5 Commandes._<br>
+AYTROX Bot est un bot Discord qui est connecté par un ID de Client [Discord.Developers](https://discord.com/developers/applications). _Avec des Fonctionnalités de 7 Commandes._<br>
 Language utilisé: **[JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript)** <img src="https://i.imgur.com/cbpCqLw.png" width="30" height="30" title="Javascript"> | **[Node.Js](https://nodejs.org/en/download/current/)**.
 
 
@@ -59,7 +59,7 @@ Language utilisé: **[JavaScript](https://developer.mozilla.org/fr/docs/Web/Java
 ## Installation
 
 - Installer la dernière version de **[Node.Js](https://nodejs.org/en/download/current/)**.
-- Télécharger **[AYTROX Bot V2.1.1.8](https://github.com/AYTROX-OFFICIEL/AYTROX-Bot/archive/main.zip)**.
+- Télécharger **[AYTROX Bot V2.1.1.9](https://github.com/AYTROX-OFFICIEL/AYTROX-Bot/archive/main.zip)**.
 - Extraire le Fichier **AYTROX Bot-main.zip**.
 - Ouvrir `AYTROXBot_setup.exe`> suivre instruction directement dessus.
 - Ouvrir `install.exe`et **attendre la fin du Téléchargement**. (Utile que a la première utilisation!)
