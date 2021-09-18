@@ -16,7 +16,7 @@
 		  <a href="https://github.com/AYTROX-OFFICIEL/AYTROX-Bot/archive/main.zip" title="Télécharger">
     <img  alt="Télécharger"
 	  src="https://img.shields.io/badge/Downloads-Derni%C3%A8re%20version%3A%20v2.1.1.9-orange"
-	  width="200">
+	  width="250">
 		  </a>
     <br />
     <br />
