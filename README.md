@@ -52,14 +52,23 @@
 ## A Propos de AYTROX Bot
 
 AYTROX Bot est un bot Discord qui est connecté par un ID de Client [Discord.Developers](https://discord.com/developers/applications). _Avec des Fonctionnalités de 7 Commandes._<br>
-Language utilisé: **[JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript)** <img src="https://i.imgur.com/cbpCqLw.png" width="30" height="30" title="Javascript"> | **[Node.Js](https://nodejs.org/en/download/current/)**.
+<br><br>
+Language utilisé: **[JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript) :**
+        <br/>
+	</br>
+	<img src="https://i.imgur.com/cbpCqLw.png" width="70" height="70" title="Javascript">
+	<br/>
+	</br>
+	<br>
+	• **<a href="https://nodejs.org/fr/about/" target="_blank">Node.Js** </a>:<br/>
+	<img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" width="110" height="110" title="Node.JS">
 
 
 
 <!-- INSTALLATION -->
 ## Installation
 
-- Installer la dernière version de **[Node.Js](https://nodejs.org/en/download/current/)**.
+- Installer la version _16.8.0_ de **[Node.Js](https://nodejs.org/download/release/v16.8.0/)**.
 - Télécharger **[AYTROX Bot V2.1.1.9](https://github.com/AYTROX-OFFICIEL/AYTROX-Bot/archive/refs/heads/main.zip)**.
 - Extraire le Fichier **AYTROX Bot-main.zip**.
 - Ouvrir `AYTROXBot_setup.exe`> suivre instruction directement dessus.
