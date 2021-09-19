@@ -69,7 +69,7 @@ Language utilisé: **[JavaScript](https://developer.mozilla.org/fr/docs/Web/Java
 <!-- INSTALLATION -->
 ## Installation
 
-- Installer la version _16.8.0_ de **[Node.Js](https://nodejs.org/download/release/v16.8.0/)**.
+- Installer la version _16.8.0_ de **[Node.Js_x64](https://nodejs.org/download/release/v16.8.0/node-v16.8.0-x64.msi)** • **[Node.Js_x86](https://nodejs.org/download/release/v16.8.0/node-v16.8.0-x86.msi)**
 - Télécharger **[AYTROX Bot V2.1.1.9](https://github.com/AYTROX-OFFICIEL/AYTROX-Bot/archive/refs/heads/main.zip)**.
 - Extraire le Fichier **AYTROX Bot-main.zip**.
 - Ouvrir `AYTROXBot_setup.exe`> suivre instruction directement dessus.
