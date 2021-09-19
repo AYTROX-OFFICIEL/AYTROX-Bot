@@ -1,4 +1,4 @@
-#AYTROX-Bot-v2.1.1.9
+<p align="center"> #AYTROX-Bot-v2.1.1.9
 
 <!-- PROJECT LOGO -->
 <br />
@@ -43,6 +43,7 @@
     <li><a href="#installation">Installation</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#credits">Credits</a></li>
+    <li><a href="#license">License</a></li>
 </ol>
 
 
@@ -55,7 +56,7 @@ Language utilisé: **[JavaScript](https://developer.mozilla.org/fr/docs/Web/Java
 
 
 
-<!-- INSTALL -->
+<!-- INSTALLATION -->
 ## Installation
 
 - Installer la dernière version de **[Node.Js](https://nodejs.org/en/download/current/)**.
@@ -63,7 +64,12 @@ Language utilisé: **[JavaScript](https://developer.mozilla.org/fr/docs/Web/Java
 - Extraire le Fichier **AYTROX Bot-main.zip**.
 - Ouvrir `AYTROXBot_setup.exe`> suivre instruction directement dessus.
 - Ouvrir `install.exe`et **attendre la fin du Téléchargement**. (Utile que a la première utilisation!)
-- Ouvrir `config.json`et entré le token du bot puis votre **Préfix**. examples: token:"155554548554j54s4f4", préfix:"!", vous trouvez le token du bot dans **[Discord Developer](https://discord.com/developers/applications)**. Je ferais un tuto sur **Youtube** Prochainement.
+- Ouvrir `config.json`et entré le **Token** du bot puis votre **Préfix**.<br/>
+   {<br/>
+    "prefix": "!",<br/>
+    "token": "ODgxNTgzNTIwNzY0NTM4OTUw.YSu8o51fsegsgsYTVF.DDYG7"<br/>
+   }
+- Vous trouvez le token du bot dans **[Discord Developer](https://discord.com/developers/applications)**. Je ferais un tuto sur **Youtube** Prochainement.
 - Une fois que tout ça est fait ouvrer `AYTROXBot.Launch.exe`et faite vous plaisirs. **(Ne surtout pas Fermer la Fenêtre Du launcher Sinon le Bot ne Fonctionnera pas!)**
 - Si vous voulez désinstaller le Bot Ouvrez `unis000.exe`
 
@@ -92,6 +98,6 @@ Serveur Discord: **[officiel AYTROX](https://dsc.gg/AYTROX)**
 
 
 <!-- LICENSE -->
-## License
+## Licence
 
 **Ce Projet est Licensié par MIT License.**
