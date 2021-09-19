@@ -35,7 +35,7 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
+<!-- SOMMAIRE -->
 ## SOMMAIRE
 
 <ol>
@@ -44,6 +44,7 @@
     <li><a href="#contact">Contact</a></li>
     <li><a href="#credits">Credits</a></li>
     <li><a href="#licence">Licence</a></li>
+    <li><a href="#copyright-aytrox">Copyright AYTROX</a></li>
 </ol>
 
 
@@ -60,7 +61,7 @@ Language utilisé: **[JavaScript](https://developer.mozilla.org/fr/docs/Web/Java
 	<br/>
 	</br>
 	<br>
-	• **<a href="https://nodejs.org/fr/about/" target="_blank">Node.Js** </a>:<br/>
+	• **[Node.Js](https://nodejs.org/fr/about/) :**<br/>
 	<img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" width="110" height="110" title="Node.JS">
 
 
@@ -110,3 +111,10 @@ Serveur Discord: **[officiel AYTROX](https://dsc.gg/AYTROX)**
 ## Licence
 
 **Ce Projet est Licensié par MIT License.**
+<br>
+<br>
+<br>
+<!-- Copyright AYTROX -->
+## Copyright AYTROX
+
+**© Copyright [AYTROX 2021](https://aytrox.wixsite.com/aytrox)**
