@@ -1,4 +1,4 @@
-<p align="center"> #AYTROX-Bot-v2.1.1.9
+<p align="center"> #AYTROX-Bot-v2.1.2.0
 
 <!-- PROJECT LOGO -->
 <br />
@@ -15,7 +15,7 @@
 	  <br />
 		  <a href="https://github.com/AYTROX-OFFICIEL/AYTROX-Bot/archive/refs/heads/main.zip" title="Télécharger">
     <img  alt="Télécharger"
-	  src="https://img.shields.io/badge/Downloads-Derni%C3%A8re%20version%3A%20v2.1.1.9-orange"
+	  src="https://img.shields.io/badge/Downloads-Derni%C3%A8re%20version%3A%20v2.1.2.0-orange"
 	  width="250">
 		  </a>
     <br />
@@ -70,7 +70,7 @@ Language utilisé: **[JavaScript](https://developer.mozilla.org/fr/docs/Web/Java
 ## Installation
 
 - Installer la version _16.8.0_ de **[Node.Js_x64](https://nodejs.org/download/release/v16.8.0/node-v16.8.0-x64.msi)** • **[Node.Js_x86](https://nodejs.org/download/release/v16.8.0/node-v16.8.0-x86.msi)**
-- Télécharger **[AYTROX Bot V2.1.1.9](https://github.com/AYTROX-OFFICIEL/AYTROX-Bot/archive/refs/heads/main.zip)**.
+- Télécharger **[AYTROX Bot V2.1.2.0](https://github.com/AYTROX-OFFICIEL/AYTROX-Bot/archive/refs/heads/main.zip)**.
 - Extraire le Fichier **AYTROX Bot-main.zip**.
 - Ouvrir `AYTROXBot_setup.exe`> suivre instruction directement dessus.
 - Ouvrir `install.exe`et **attendre la fin du Téléchargement**. (Utile que a la première utilisation!)
