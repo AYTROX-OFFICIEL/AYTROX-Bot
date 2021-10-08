@@ -117,4 +117,4 @@ Serveur Discord: **[officiel AYTROX](https://dsc.gg/AYTROX)**
 <!-- Copyright AYTROX -->
 ## Copyright AYTROX
 
-**© Copyright [AYTROX 2021](https://aytrox.wixsite.com/aytrox)**
+**© Copyright [AYTROX 2021](https://aytrox.wixsite.com/website)**
