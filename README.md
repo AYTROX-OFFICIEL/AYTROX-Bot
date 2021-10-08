@@ -6,7 +6,7 @@
   <p align="center">
     Un Bot Discord Gratuit pour vous très peut de fonctionnalité pour le moment.
 	<br />
-	  <a href="https://aytrox.wixsite.com/aytrox" target="_blank" title="Logo OFFICIEL de AYTROX">
+	  <a href="https://aytrox.wixsite.com/website" target="_blank" title="Logo OFFICIEL de AYTROX">
 	<img 	alt="Siteweb"
 		src="https://i.imgur.com/a8WOqHV.png"
 		width="300"
