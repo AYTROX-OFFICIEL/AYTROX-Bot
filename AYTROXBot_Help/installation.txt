@@ -1,0 +1,27 @@
+--------------------------------------------
+
+1. Lancer setup.exe
+
+--------------------------------------------
+
+2. Lancer installateur.exe
+
+--------------------------------------------
+
+3. Lancer config.json entrez votre prefix et le token du bot. (example:
+{
+    "prefix": "!",
+    "token": "ughruhghsr_rghusgvugr-gsrjhgusruigbhu5s4rg6srg__"
+})
+
+(vous trouverez le token du bot sur ce site: https://discord.com/developers/applications)
+
+pour plus de rensignement veuillez consultez: https://github.com/AYTROX-OFFICIEL/AYTROX-Bot/blob/main/README.md
+
+--------------------------------------------
+
+4. Lancer AYTROXBot.Launch.exe
+
+--------------------------------------------
+
+5. Lancer Discord et amusez vous!!!
