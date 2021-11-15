@@ -1,4 +1,6 @@
-<p align="center"> #AYTROX-Bot-v2.1.2.0
+<!-- Copyright © AYTROX 2021 -->
+
+<p align="center"> #AYTROX-Bot-v2.1.2.1
 
 <!-- PROJECT LOGO -->
 <br />
@@ -11,7 +13,7 @@
 		src="https://i.imgur.com/a8WOqHV.png"
 		width="300"
 		height="300"
-</a>
+    </a>
 	  <br />
 		  <a href="https://github.com/AYTROX-OFFICIEL/AYTROX-Bot/archive/refs/heads/main.zip" title="Télécharger">
     <img  alt="Télécharger"
@@ -52,7 +54,7 @@
 <!-- A Propos de AYTROX Bot -->
 ## A Propos de AYTROX Bot
 
-AYTROX Bot est un bot Discord qui est connecté par un ID de Client [Discord.Developers](https://discord.com/developers/applications). _Avec des Fonctionnalités de 9 Commandes._<br>
+AYTROX Bot est un bot Discord qui est connecté par un ID de Client [Discord.Developers](https://discord.com/developers/applications). _Avec des Fonctionnalités de 10 Commandes._<br>
 <br><br>
 Language utilisé: **[JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript) :**
         <br/>
@@ -70,9 +72,8 @@ Language utilisé: **[JavaScript](https://developer.mozilla.org/fr/docs/Web/Java
 ## Installation
 
 - Installer la version _16.8.0_ de **[Node.Js_x64](https://nodejs.org/download/release/v16.8.0/node-v16.8.0-x64.msi)** • **[Node.Js_x86](https://nodejs.org/download/release/v16.8.0/node-v16.8.0-x86.msi)**
-- Télécharger **[AYTROX Bot V2.1.2.0](https://github.com/AYTROX-OFFICIEL/AYTROX-Bot/archive/refs/heads/main.zip)**.
+- Télécharger **[AYTROX Bot V2.1.2.1](https://github.com/AYTROX-OFFICIEL/AYTROX-Bot/archive/refs/heads/main.zip)**.
 - Extraire le Fichier **AYTROX Bot-main.zip**.
-- Ouvrir `AYTROXBot_setup.exe`> suivre instruction directement dessus.
 - Ouvrir `install.exe`et **attendre la fin du Téléchargement**. (Utile que a la première utilisation!)
 - Ouvrir `config.json`et entré le **Token** du bot puis votre **Préfix**.<br/>
    {<br/>
@@ -81,7 +82,6 @@ Language utilisé: **[JavaScript](https://developer.mozilla.org/fr/docs/Web/Java
    }
 - Vous trouvez le token du bot dans **[Discord Developer](https://discord.com/developers/applications)**. Je ferais un tuto sur **Youtube** Prochainement.
 - Une fois que tout ça est fait ouvrer `AYTROXBot.Launch.exe`et faite vous plaisirs. **(Ne surtout pas Fermer la Fenêtre Du launcher Sinon le Bot ne Fonctionnera pas!)**
-- Si vous voulez désinstaller le Bot Ouvrez `unis000.exe`
 
 
 

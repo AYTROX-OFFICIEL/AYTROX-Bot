@@ -7,9 +7,9 @@ module.exports = {
         if (!/\d+/.test(count)) return message.channel.send('Veuillez indiquer un nombre de messages à supprimer.')
         if (count < 1 || count > 99) return message.channel.send('Le nombre de message doit être compris entre 1 et 99.')
         const { size } = await message.channel.bulkDelete(Number(count) + 1, true)
-        console.log(`\n  Le bot à supprimé *${size -1}* messages\n\n  N'oublie pas d'aller voir mon discord profite tu la lancer: https://discord.gg/UyjwFrTSRs\n  ${message.author.tag} à utilisé la commande: ${config.prefix}clear\n\n`)
+        console.log(`\n  Le bot à supprimé *${size -1}* messages\n\n  N'oublie pas d'aller voir mon discord profite tu la lancer: https://discord.gg/UyjwFrTSRs\n`)
         message.author.send(`j'ai supprimé \`${size - 1}\` message(s) ! ✅`).then(sent => sent.delete({timeout: 2e4}))
-        console.log(`  ${message.author.tag} à utilisé la commande: ${config.prefix}clear\n`)
+        console.log(`  ${message.author.tag} à utilisé la commande: ${config.prefix}clear\n\n`)
     },
     name: 'clear',
     guildOnly: true,

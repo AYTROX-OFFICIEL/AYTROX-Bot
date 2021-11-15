@@ -4,11 +4,11 @@ const Discord = require('discord.js'),
 module.exports = {
     run: message => {
         message.channel.send(new Discord.MessageEmbed()
-        .setAuthor('AYTROX 2021 Projet: AYTROX-Bot 2019-2021', 'https://i.imgur.com/FHKcKMR.gif', 'https://github.com/AYTROX-OFFICIEL/AYTROX-Bot')
+        .setAuthor('AYTROX 2021 Projet: AYTROX-Bot V2.1.2.1 2019-2021', 'https://i.imgur.com/FHKcKMR.gif', 'https://github.com/AYTROX-OFFICIEL/AYTROX-Bot')
         .addField('Copyright', 'Copyright © **AYTROX 2021**', false)
         .addField('Site', 'Site **AYTROX**: **https://aytrox.wixsite.com/website**', false)
-        .addField('Github', '\`https://github.com/AYTROX-OFFICIEL\`', false)
-        .addField('Page AYTROX-Bot', '\`https://github.com/AYTROX-OFFICIEL/AYTROX-Bot\`', false)
+        .addField('Github', 'https://github.com/AYTROX-OFFICIEL', false)
+        .addField('Page AYTROX-Bot', 'https://github.com/AYTROX-OFFICIEL/AYTROX-Bot', false)
         .addField('Site by AYTROX', 'https://aytrox-officiel.github.io', false)
         .addField('Discord AYTROX', 'https://discord.gg/UyjwFrTSRs', false)
         .addField('AYTROX V4', 'AYTROX V4 est un serveur privé fortnite qui permet d\'avoir tout les skins Fortnite !\nlien -> https://github.com/AYTROX-OFFICIEL/AYTROX-V4', false)

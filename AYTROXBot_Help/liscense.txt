@@ -3,10 +3,10 @@ Veuiller cliquer sur continuer pour accepter l'accord d'utilisation de mon proje
 
 ----------------------------------------------------------------------
 
-Copyright AYTROX 2021
+Copyright © AYTROX 2021
 ----------------------------------------------------------------------
 
-AYTROX Bot V2.1.2.0
+AYTROX Bot V2.1.2.1
 
 siteweb: https://aytrox.wixsite.com/website
 

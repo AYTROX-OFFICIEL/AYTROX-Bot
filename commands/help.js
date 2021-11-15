@@ -13,7 +13,7 @@ module.exports = {
         }
         else {
             message.channel.send(new Discord.MessageEmbed()
-            .setTitle('Liste des commandes Pour la version du bot => 2.1.2.0')
+            .setTitle('Liste des commandes Pour la version du bot => 2.1.2.1')
             .setDescription(`${client.commands.filter(command => command.help).map(command => `\`${config.prefix}${command.name}\``).join(' ')}\n\nPour plus d'informations sur une commande, tapez:\n\`${config.prefix}help [nom de la commande]\``)
             .setFooter(`${message.author.tag} • Aide par l\'équipe AYTROX`, message.author.displayAvatarURL())
             .setTimestamp()

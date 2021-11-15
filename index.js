@@ -1,4 +1,9 @@
+// Copyright © AYTROX 2021 (AYTROX-Bot V2.1.2.1)
+
 const Discord = require('discord.js');
+const version = ' V2.1.2.1'
+const ProjectAuthor = 'AYTROX'
+const ProjectName = 'AYTROX-Bot'
 const { TIMEOUT } = require('dns');
 const { MessageButton } = require('discord-buttons');
 const client = new Discord.Client();
@@ -8,7 +13,7 @@ fs = require('fs')
 require('discord-buttons')(client);
 
 client.on("ready", () => {
-    console.log(`\n  Le bot est prêts => ${client.user.tag} !\n\n`)
+    console.log(`\n  Le bot est prêts => ${client.user.tag} !\n\n  [\x1b[32m${ProjectName+version}\x1b[0m]\x1b[0m By \x1b[34m${ProjectAuthor}\x1b[0m\n\n`)
 });
 
 // script pour diriger vers le dossier 'commands' + lire tout les fichier qui finissent par '.js'
@@ -30,6 +35,7 @@ fs.readdir('./commands', (err, files) => {
     }
 })*/
 
+//script pour que le bot ne réponde pas à ses messages.
 client.on('message', message => {
     if (message.type !== 'DEFAULT' || message.author.bot) return
 
@@ -44,8 +50,8 @@ client.on('message', message => {
 //droit d'auteur (Copyright AYTROX 2021)
 client.on("ready", () => {
     const statuses = [
-        () => 'Made By AYTROX#1418 | TikTok: @aytrox | Twitter: @AYTROX_OFFICIEL | Github: AYTROX-OFFICIEL | V2.1.2.0',
-        () => 'utilise => AYTROX-Bot V2.1.2.0',
+        () => 'Made By AYTROX#1418 | TikTok: @aytrox | Twitter: @AYTROX_OFFICIEL | Github: AYTROX-OFFICIEL | V2.1.2.1',
+        () => 'utilise => AYTROX-Bot V2.1.2.1',
         () => 'Serveur Discord: https://dsc.gg/AYTROX',
         () => 'Projet AYTROX Bot: https://github.com/AYTROX-OFFICIEL/AYTROX-Bot'
     ]
