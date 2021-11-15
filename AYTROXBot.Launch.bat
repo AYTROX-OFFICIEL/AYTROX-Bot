@@ -1,11 +1,11 @@
 @echo off
-title  Copyright AYTROX 2021      AYTROX Bot V2.1.2.0 -- By AYTROX
+title  Copyright AYTROX 2021      AYTROX Bot V2.1.2.1 -- By AYTROX
 echo.
 echo   Copyright AYTROX 2021
 echo.
 echo.
 echo.
-echo      AYTROX Bot V2.1.2.0
+echo      AYTROX Bot V2.1.2.1
 echo.
 echo.
 echo.
@@ -19,7 +19,7 @@ echo.
 echo.
 timeout /t 3 /nobreak>nul
 
-echo   Website: https://aytrox.wixsite.com/aytrox
+echo   Website: https://aytrox.wixsite.com/website
 echo.
 echo.
 echo.
@@ -56,9 +56,9 @@ echo.
 echo.
 echo.
 timeout /t 2 /nobreak>nul
-title AYTROX Bot V2.1.2.0       BOT en ligne (en court de Fonctionnement) discord pour les beugs: https://dsc.gg/AYTROX
+title AYTROX Bot V2.1.2.1       BOT en ligne (en court de Fonctionnement) discord pour les beugs: https://dsc.gg/AYTROX
 
-start https://aytrox.wixsite.com/aytrox
+start https://dsc.gg/AYTROX
 
 timeout /t 2 /nobreak>nul
 node index.js 

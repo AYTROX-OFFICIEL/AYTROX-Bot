@@ -1,5 +1,5 @@
 @echo off
-title  Copyright AYTROX 2021      AYTROX Bot Installateur V2.1.2.0 -- By AYTROX
+title  Copyright AYTROX 2021      AYTROX Bot Installateur V2.1.2.1 -- By AYTROX
 echo.
 echo   Copyright AYTROX 2021
 echo.
@@ -7,7 +7,7 @@ echo.
 echo.
 echo.
 timeout /t 5 /nobreak>nul
-echo      AYTROX Bot Installateur V2.1.2.0
+echo      AYTROX Bot Installateur V2.1.2.1
 echo.
 echo.
 echo.
