@@ -15,7 +15,7 @@
 		height="300"
     </a>
 	  <br />
-		  <a href="https://github.com/AYTROX-OFFICIEL/AYTROX-Bot/releases/tag/V2.1.2.1" title="Télécharger">
+		  <a href="https://github.com/AYTROX-OFFICIEL/AYTROX-Bot/releases/tag/V2.1.2.1" title="Télécharger" target="_blank">
     <img  alt="Télécharger"
 	  src="https://img.shields.io/badge/Downloads-Derni%C3%A8re%20version%3A%20V2.1.2.1-orange"
 	  width="250">
