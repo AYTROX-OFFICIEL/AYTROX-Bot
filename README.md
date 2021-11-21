@@ -14,7 +14,20 @@
 		src="https://i.imgur.com/a8WOqHV.png"
 		width="300"
 		height="300"
+	     </img>
     </a>
+		  <br>
+		  <br>
+	  <p align="center">Logo Bot</p>
+	  <p align="center">
+		  <img alt="logo"
+		       title="Logo bot"
+		       src="https://i.imgur.com/3dIoWAN.png"
+		       width="80"
+		       height="80"
+		       </img>
+		       <br>
+		  <br>
 	  <br />
 		  <a href="https://github.com/AYTROX-OFFICIEL/AYTROX-Bot/releases/latest" title="Télécharger">
     <img  alt="Télécharger"
@@ -26,6 +39,8 @@
     <a href="https://discord.gg/gzqgGrUSDH">Reporter Beugs</a>
     •
     <a href="https://aytrox.wixsite.com/website">Website</a>
+    •
+    <a href="https://aytrox-officiel.github.io/?source=AYTROX-Bot-readme">Website By AYTROX</a>
     <br />
     <br />
       <a href="https://dsc.gg/AYTROX" title="Discord">
