@@ -1,6 +1,6 @@
 <!-- Copyright © AYTROX 2021 -->
 
-<p align="center"> #AYTROX-Bot-v2.1.2.1
+<p align="center"> #AYTROX-Bot-V2.1.2.1
 
 <!-- PROJECT LOGO -->
 <br />
@@ -15,14 +15,14 @@
 		height="300"
     </a>
 	  <br />
-		  <a href="https://github.com/AYTROX-OFFICIEL/AYTROX-Bot/archive/refs/heads/main.zip" title="Télécharger">
+		  <a href="https://github.com/AYTROX-OFFICIEL/AYTROX-Bot/releases/latest" title="Télécharger">
     <img  alt="Télécharger"
-	  src="https://img.shields.io/badge/Downloads-Derni%C3%A8re%20version%3A%20v2.1.2.0-orange"
+	  src="https://img.shields.io/badge/Downloads-Derni%C3%A8re%20version%3A%20V2.1.2.1-orange"
 	  width="250">
 		  </a>
     <br />
     <br />
-    <a href="https://discord.gg/6RcTWgucPn">Reporter Beugs</a>
+    <a href="https://discord.gg/gzqgGrUSDH">Reporter Beugs</a>
     •
     <a href="https://aytrox.wixsite.com/website">Website</a>
     <br />
