@@ -1,17 +1,22 @@
 {
   "name": "aytrox-bot",
-  "version": "2.1.2.1",
+  "version": "2.1.2.2",
   "description": "Made By AYTROX",
   "main": "index.js",
+  "invite": "https://discord.gg/UyjwFrTSRs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "AYTROX",
   "license": "ISC",
   "dependencies": {
+    "@discordjs/opus": "github:discordjs/opus",
     "discord-buttons": "^4.0.0",
     "discord.js": "^12.5.3",
     "fs": "^0.0.1-security",
-    "moment": "^2.29.1"
+    "moment": "^2.29.1",
+    "yt-search": "^2.10.2",
+    "ytdl-core": "^4.9.1",
+    "ytdl-core-discord": "^1.3.1"
   }
 }

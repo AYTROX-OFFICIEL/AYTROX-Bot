@@ -6,7 +6,7 @@ Veuiller cliquer sur continuer pour accepter l'accord d'utilisation de mon proje
 Copyright © AYTROX 2021
 ----------------------------------------------------------------------
 
-AYTROX Bot V2.1.2.1
+AYTROX Bot V2.1.2.2
 
 siteweb: https://aytrox.wixsite.com/website
 

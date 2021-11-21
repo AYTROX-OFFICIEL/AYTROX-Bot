@@ -4,7 +4,7 @@ const Discord = require('discord.js'),
 module.exports = {
     run: message => {
         message.channel.send(new Discord.MessageEmbed()
-        .setAuthor('AYTROX 2021 Projet: AYTROX-Bot V2.1.2.1 2019-2021', 'https://i.imgur.com/FHKcKMR.gif', 'https://github.com/AYTROX-OFFICIEL/AYTROX-Bot')
+        .setAuthor('AYTROX 2021 Projet: AYTROX-Bot V2.1.2.2 2019-2021', 'https://i.imgur.com/FHKcKMR.gif', 'https://github.com/AYTROX-OFFICIEL/AYTROX-Bot')
         .addField('Copyright', 'Copyright © **AYTROX 2021**', false)
         .addField('Site', 'Site **AYTROX**: **https://aytrox.wixsite.com/website**', false)
         .addField('Github', 'https://github.com/AYTROX-OFFICIEL', false)

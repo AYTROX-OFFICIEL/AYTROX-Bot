@@ -1,7 +1,7 @@
-// Copyright © AYTROX 2021 (AYTROX-Bot V2.1.2.1)
+// Copyright © AYTROX 2021 (AYTROX-Bot V2.1.2.2)
 
 const Discord = require('discord.js');
-const version = ' V2.1.2.1'
+const version = ' V2.1.2.2'
 const ProjectAuthor = 'AYTROX'
 const ProjectName = 'AYTROX-Bot'
 const { TIMEOUT } = require('dns');
@@ -9,12 +9,24 @@ const { MessageButton } = require('discord-buttons');
 const client = new Discord.Client();
 moment =  require('moment')
 config = require('./config.json')
+packages = require('./package.json')
 fs = require('fs')
 require('discord-buttons')(client);
 
 client.on("ready", () => {
-    console.log(`\n  Le bot est prêts => ${client.user.tag} !\n\n  [\x1b[32m${ProjectName+version}\x1b[0m]\x1b[0m By \x1b[34m${ProjectAuthor}\x1b[0m\n\n`)
+    console.log(`\n  Le bot est prêts => \x1b[35m${client.user.tag}\x1b[0m Id: (${client.user.id})\n\n  [\x1b[32m${ProjectName+version}\x1b[0m]\x1b[0m By \x1b[34m${ProjectAuthor}\x1b[0m\n  
+    Discord: \x1b[31m${packages.invite}\x1b[34m\n`)
 });
+
+client.on('clickButton', async (button) => {
+    if (button.id === 'ButtonEmbed6') {
+        button.reply.send('Ok')
+        button.message.edit('.')
+    }
+    else if (button.id === 'ButtonEmbed7') {
+        button.message.delete()
+    }
+})
 
 // script pour diriger vers le dossier 'commands' + lire tout les fichier qui finissent par '.js'
 fs.readdir('./commands', (err, files) => {
@@ -25,15 +37,6 @@ fs.readdir('./commands', (err, files) => {
         client.commands.set(command.name, command)
     })
 })
-
-/*client.on('clickButton', async (button) => {
-    if (button.id === 'test1') {
-        button.reply.send('Salut')
-    }
-    else if (button.id === 'test2') {
-        button.reply.send('lol')
-    }
-})*/
 
 //script pour que le bot ne réponde pas à ses messages.
 client.on('message', message => {
@@ -50,8 +53,8 @@ client.on('message', message => {
 //droit d'auteur (Copyright AYTROX 2021)
 client.on("ready", () => {
     const statuses = [
-        () => 'Made By AYTROX#1418 | TikTok: @aytrox | Twitter: @AYTROX_OFFICIEL | Github: AYTROX-OFFICIEL | V2.1.2.1',
-        () => 'utilise => AYTROX-Bot V2.1.2.1',
+        () => 'Made By AYTROX#1418 | TikTok: @aytrox | Twitter: @AYTROX_OFFICIEL | Github: AYTROX-OFFICIEL | V2.1.2.2',
+        () => 'utilise => AYTROX-Bot V2.1.2.2',
         () => 'Serveur Discord: https://dsc.gg/AYTROX',
         () => 'Projet AYTROX Bot: https://github.com/AYTROX-OFFICIEL/AYTROX-Bot'
     ]
