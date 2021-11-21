@@ -1,6 +1,7 @@
 <!-- Copyright © AYTROX 2021 -->
+## Acceuil
 
-<p align="center"> #AYTROX-Bot-V2.1.2.1
+<p align="center"> #AYTROX-Bot-V2.1.2.2
 
 <!-- PROJECT LOGO -->
 <br />
@@ -17,7 +18,7 @@
 	  <br />
 		  <a href="https://github.com/AYTROX-OFFICIEL/AYTROX-Bot/releases/latest" title="Télécharger">
     <img  alt="Télécharger"
-	  src="https://img.shields.io/badge/Downloads-Derni%C3%A8re%20version%3A%20V2.1.2.1-orange"
+	  src="https://img.shields.io/badge/Downloads-Derni%C3%A8re%20version%3A%20V2.1.2.2-orange"
 	  width="250">
 		  </a>
     <br />
@@ -72,10 +73,10 @@ Language utilisé: **[JavaScript](https://developer.mozilla.org/fr/docs/Web/Java
 ## Installation
 
 - Installer la version _16.8.0_ de **[Node.Js_x64](https://nodejs.org/download/release/v16.8.0/node-v16.8.0-x64.msi)** • **[Node.Js_x86](https://nodejs.org/download/release/v16.8.0/node-v16.8.0-x86.msi)**
-- Télécharger **[AYTROX Bot V2.1.2.1](https://github.com/AYTROX-OFFICIEL/AYTROX-Bot/archive/refs/heads/main.zip)**.
+- Télécharger **[AYTROX Bot V2.1.2.2](https://github.com/AYTROX-OFFICIEL/AYTROX-Bot/archive/refs/heads/main.zip)**.
 - Extraire le Fichier **AYTROX Bot-main.zip**.
-- Ouvrir `install.exe`et **attendre la fin du Téléchargement**. (Utile que a la première utilisation!)
-- Ouvrir `config.json`et entré le **Token** du bot puis votre **Préfix**.<br/>
+- Ouvrir `install.bat` et **attendre la fin du Téléchargement**. (Utile que a la première utilisation!)
+- Ouvrir `config.json` et entré le **Token** du bot puis votre **Préfix**.<br/>
    {<br/>
     "prefix": "!",<br/>
     "token": "ODgxNTgzNTIwNzY0NTM4OTUw.YSu8o51fsegsgsYTVF.DDYG7"<br/>
@@ -90,6 +91,8 @@ Language utilisé: **[JavaScript](https://developer.mozilla.org/fr/docs/Web/Java
 
 
 Serveur Discord: **[officiel AYTROX](https://dsc.gg/AYTROX)**
+
+Email: **aytrox17@gmail.com**
 
 
 <!-- CREDITS -->
@@ -114,7 +117,7 @@ Serveur Discord: **[officiel AYTROX](https://dsc.gg/AYTROX)**
 <br>
 <br>
 <br>
-<!-- Copyright AYTROX -->
+<!-- Copyright AYTROX 2021 -->
 ## Copyright AYTROX
 
 **© Copyright [AYTROX 2021](https://aytrox.wixsite.com/website)**
