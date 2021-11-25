@@ -17,7 +17,10 @@
 **[AYTROX-Bot-v2.1.2.0](https://github.com/AYTROX-OFFICIEL/AYTROX-Bot/archive/refs/tags/V2.1.2.0.zip)**
 <br>
 <br>
-**[AYTROX-Bot-V2.1.2.1(Dernière version)](https://github.com/AYTROX-OFFICIEL/AYTROX-Bot/archive/refs/tags/V2.1.2.1.zip)**
+**[AYTROX-Bot-v2.1.2.1](https://github.com/AYTROX-OFFICIEL/AYTROX-Bot/archive/refs/tags/V2.1.2.1.zip)**
+<br>
+<br>
+**[AYTROX-Bot-V2.1.2.2(Dernière version)](https://github.com/AYTROX-OFFICIEL/AYTROX-Bot/releases/tag/V2.1.2.2)**
 <br>
 <br>
 <p align="center">Copyright AYTROX 2021
